@@ -282,12 +282,11 @@ Potential extensions include:
 
 ## Author
 
-**Yasaman Sheikhan**
-
 - GitHub: [@yasmansh](https://github.com/yasmansh)
 
 Feel free to explore the code, open issues, or suggest improvements.
 
 ## License
 
-No license has been added yet. A `LICENSE` file should be added before distributing this project as open-source software.
+No license has currently been specified for this repository.
+Please contact the repository owner before reusing or redistributing the code.
